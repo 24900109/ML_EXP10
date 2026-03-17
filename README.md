@@ -30,8 +30,8 @@ The dataset used is *weather-station-eee-block_2024_07_13.csv*, which contains t
 ```
 /*
 Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
-Developed by: Mohanaprabha S
-RegisterNumber:  212224040197
+Developed by: KIRUTHIKA N
+RegisterNumber:  212224230127
 */
 ```
 ```
